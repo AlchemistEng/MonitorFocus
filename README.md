@@ -10,7 +10,12 @@ Windows Installers Only:
 
 # About:
 
-![MonitorFocus application icon](Assets/MonitorFocus-128x128-2.png)
+<p align="center">
+  <img src="assets/MonitorFocus-128x128-2.png"
+       alt="MonitorFocus application icon"
+       width="128">
+</p>
+
 
 **Version:** 1.0.0  
 **Developed by:** Alchemist Engineering
